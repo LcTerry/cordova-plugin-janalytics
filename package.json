@@ -1,6 +1,6 @@
 {
     "name": "cordova-plugin-janalytics",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "description": "JAnalytics",
     "cordova": {
         "id": "cordova-plugin-janalytics",
